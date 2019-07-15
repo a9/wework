@@ -1,6 +1,6 @@
 {
   "name": "wework",
-  "version": "0.0.1-alpha.0",
+  "version": "1.0.1",
   "description": "The work wechat (wework) chat group robot webhooks api",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
